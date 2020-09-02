@@ -9,12 +9,13 @@
 - ⚡ Fun fact: I love to make pottery
 
 ### Spotify Playing 🎧
-[<img src="novatorem-kappa-nine.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="novatorem-kappa-nine.vercel.app/api/spotify-playing" alt="aidanmc95 Spotify Playing" width="350" />]
 
 ### Connect with me:
 
 [<img align="left" alt="aidanmc95 | LinkedIn" width="22px" src="https://www.linkedin.com/in/aidan-muller-cohn/" />][linkedin]
 
+<br />
 <br />
 
 ### Languages and Tools:
