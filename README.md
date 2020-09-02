@@ -41,6 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed Searching with Binary](https://medium.com/@aidanmc95/speed-searching-with-binary-f69a15533e02?source=rss-495bab6e66fa------2)
+- [QuickSort](https://medium.com/@aidanmc95/quicksort-5367b32cd336?source=rss-495bab6e66fa------2)
+- [Ruby Threading](https://medium.com/@aidanmc95/ruby-threading-984b0062a16a?source=rss-495bab6e66fa------2)
+- [Why Can’t I Build Anything](https://medium.com/@aidanmc95/why-cant-i-build-anything-4138b264eb67?source=rss-495bab6e66fa------2)
+- [Getting Started](https://medium.com/@aidanmc95/getting-started-4c68c8a53de4?source=rss-495bab6e66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
