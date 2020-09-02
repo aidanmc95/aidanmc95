@@ -47,6 +47,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15](https://github.com//aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com//aidanmc95/Business-Builder-Backend)
+2. 💪 Opened PR [#15](https://github.com//aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com//aidanmc95/Business-Builder-Backend)
+3. 💪 Opened PR [#2](https://github.com//learn-co-students/React-Stocks-sea01-seng-ft-042020/pull/2) in [learn-co-students/React-Stocks-sea01-seng-ft-042020](https://github.com//learn-co-students/React-Stocks-sea01-seng-ft-042020)
+4. 💪 Opened PR [#3](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020/pull/3) in [learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020)
+5. 💪 Opened PR [#2](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020/pull/2) in [learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020)
 <!--END_SECTION:activity-->
 
 </details>
