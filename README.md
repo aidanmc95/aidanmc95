@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to make pottery
 
 ### Spotify Playing 🎧
-[<img src="novatorem-kappa-nine.vercel.app/api/spotify-playing" alt="aidanmc95 Spotify Playing" width="350" />]
+[<img src="novatorem-kappa-nine.vercel.app/api/spotify-playing" alt="aidanmc95 Spotify Playing" width="350" />](https://open.spotify.com/user/1255193058?si=wJE2sNH1TrmAf9kKvXG_xA)
 
 ### Connect with me:
 
