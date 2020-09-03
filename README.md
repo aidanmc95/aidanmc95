@@ -41,12 +41,22 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Speed Searching with Binary](https://medium.com/@aidanmc95/speed-searching-with-binary-f69a15533e02?source=rss-495bab6e66fa------2)
+- [QuickSort](https://medium.com/@aidanmc95/quicksort-5367b32cd336?source=rss-495bab6e66fa------2)
+- [Ruby Threading](https://medium.com/@aidanmc95/ruby-threading-984b0062a16a?source=rss-495bab6e66fa------2)
+- [Why Can’t I Build Anything](https://medium.com/@aidanmc95/why-cant-i-build-anything-4138b264eb67?source=rss-495bab6e66fa------2)
+- [Getting Started](https://medium.com/@aidanmc95/getting-started-4c68c8a53de4?source=rss-495bab6e66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#15](https://github.com//aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com//aidanmc95/Business-Builder-Backend)
+2. 💪 Opened PR [#15](https://github.com//aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com//aidanmc95/Business-Builder-Backend)
+3. 💪 Opened PR [#2](https://github.com//learn-co-students/React-Stocks-sea01-seng-ft-042020/pull/2) in [learn-co-students/React-Stocks-sea01-seng-ft-042020](https://github.com//learn-co-students/React-Stocks-sea01-seng-ft-042020)
+4. 💪 Opened PR [#3](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020/pull/3) in [learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020)
+5. 💪 Opened PR [#2](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020/pull/2) in [learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020)
 <!--END_SECTION:activity-->
 
 </details>
