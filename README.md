@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Climber!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
+- :takeout_box: I’m currently working on a Slack Bot for Food Delivery!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -58,11 +58,6 @@
 4. 💪 Opened PR [#3](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020/pull/3) in [learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-component-mounting-lab-sea01-seng-ft-042020)
 5. 💪 Opened PR [#2](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020/pull/2) in [learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020](https://github.com//learn-co-students/react-props-and-state-lab-sea01-seng-ft-042020)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
 
 </details>
 
