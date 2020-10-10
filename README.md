@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/aidanmc95/icare/pull/1) in [aidanmc95/icare](https://github.com/aidanmc95/icare)
-2. 💪 Opened PR [#1](https://github.com/aidanmc95/icare/pull/1) in [aidanmc95/icare](https://github.com/aidanmc95/icare)
-3. 🎉 Merged PR [#15](https://github.com/aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com/aidanmc95/Business-Builder-Backend)
-4. 💪 Opened PR [#15](https://github.com/aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com/aidanmc95/Business-Builder-Backend)
-5. 💪 Opened PR [#2](https://github.com/learn-co-students/React-Stocks-sea01-seng-ft-042020/pull/2) in [learn-co-students/React-Stocks-sea01-seng-ft-042020](https://github.com/learn-co-students/React-Stocks-sea01-seng-ft-042020)
+1. 🎉 Merged PR [#1](https://github.com/aidanmc95/native-front-end/pull/1) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+2. 💪 Opened PR [#1](https://github.com/aidanmc95/native-front-end/pull/1) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+3. 🎉 Merged PR [#1](https://github.com/aidanmc95/icare/pull/1) in [aidanmc95/icare](https://github.com/aidanmc95/icare)
+4. 💪 Opened PR [#1](https://github.com/aidanmc95/icare/pull/1) in [aidanmc95/icare](https://github.com/aidanmc95/icare)
+5. 🎉 Merged PR [#15](https://github.com/aidanmc95/Business-Builder-Backend/pull/15) in [aidanmc95/Business-Builder-Backend](https://github.com/aidanmc95/Business-Builder-Backend)
 <!--END_SECTION:activity-->
 
 </details>
