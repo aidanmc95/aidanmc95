@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/aidanmc95/native-front-end/pull/2) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
-2. 💪 Opened PR [#2](https://github.com/aidanmc95/native-front-end/pull/2) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
-3. 🎉 Merged PR [#3](https://github.com/SnowpoolApp/native-front-end/pull/3) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
-4. 💪 Opened PR [#3](https://github.com/SnowpoolApp/native-front-end/pull/3) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
-5. 🎉 Merged PR [#1](https://github.com/aidanmc95/native-front-end/pull/1) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+1. 🎉 Merged PR [#3](https://github.com/aidanmc95/native-front-end/pull/3) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+2. 💪 Opened PR [#3](https://github.com/aidanmc95/native-front-end/pull/3) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+3. 🎉 Merged PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
+4. 💪 Opened PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
+5. 🎉 Merged PR [#2](https://github.com/aidanmc95/native-front-end/pull/2) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
 <!--END_SECTION:activity-->
 
 </details>
