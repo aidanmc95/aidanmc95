@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Genetic Algorithms](https://medium.com/@aidanmc95/genetic-algorithms-18e864a65f7e?source=rss-495bab6e66fa------2)
 - [Hashing](https://medium.com/@aidanmc95/hashing-a9639b6ef0c?source=rss-495bab6e66fa------2)
 - [Counting Sort](https://medium.com/@aidanmc95/counting-sort-b93685de9811?source=rss-495bab6e66fa------2)
 - [Binary Trees](https://medium.com/@aidanmc95/binary-trees-35abb77791e3?source=rss-495bab6e66fa------2)
 - [Speed Searching with Binary](https://medium.com/@aidanmc95/speed-searching-with-binary-f69a15533e02?source=rss-495bab6e66fa------2)
-- [QuickSort](https://medium.com/@aidanmc95/quicksort-5367b32cd336?source=rss-495bab6e66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
