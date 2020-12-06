@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Activate Fountain](https://medium.com/@aidanmc95/activate-fountain-3d7b47d9db7b?source=rss-495bab6e66fa------2)
 - [FTP Servers](https://medium.com/@aidanmc95/ftp-servers-854420427e46?source=rss-495bab6e66fa------2)
 - [Starting Again](https://medium.com/@aidanmc95/starting-again-45b7f663b14d?source=rss-495bab6e66fa------2)
 - [Backtracking](https://medium.com/@aidanmc95/backtracking-52a9d16f39df?source=rss-495bab6e66fa------2)
 - [Advanced Logging](https://medium.com/@aidanmc95/advanced-logging-5d712928da42?source=rss-495bab6e66fa------2)
-- [Logging](https://medium.com/@aidanmc95/logging-eac439cd6d03?source=rss-495bab6e66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
