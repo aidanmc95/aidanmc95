@@ -52,7 +52,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/aidanmc95/native-front-end/pull/3) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+1. 🗣 Commented on [#17008](https://github.com/microsoft/fluentui/issues/17008) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 2. 💪 Opened PR [#3](https://github.com/aidanmc95/native-front-end/pull/3) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
 3. 🎉 Merged PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
 4. 💪 Opened PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
