@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17039](https://github.com/microsoft/fluentui/pull/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. 🗣 Commented on [#17008](https://github.com/microsoft/fluentui/issues/17008) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. 🎉 Merged PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
-4. 💪 Opened PR [#12](https://github.com/SnowpoolApp/native-front-end/pull/12) in [SnowpoolApp/native-front-end](https://github.com/SnowpoolApp/native-front-end)
-5. 🎉 Merged PR [#2](https://github.com/aidanmc95/native-front-end/pull/2) in [aidanmc95/native-front-end](https://github.com/aidanmc95/native-front-end)
+1. 🗣 Commented on [#17039](https://github.com/microsoft/fluentui/issues/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. ❌ Reopened PR [#17039](https://github.com/microsoft/fluentui/pull/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. ❌ Closed PR [#17039](https://github.com/microsoft/fluentui/pull/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. 🗣 Commented on [#17039](https://github.com/microsoft/fluentui/issues/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 💪 Opened PR [#17039](https://github.com/microsoft/fluentui/pull/17039) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
 </details>
