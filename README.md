@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Patching Array](https://medium.com/@aidanmc95/patching-array-7e0571d2b1e3?source=rss-495bab6e66fa------2)
-- [Bucket Sort](https://medium.com/@aidanmc95/bucket-sort-15f9fbead657?source=rss-495bab6e66fa------2)
-- [MongoDB](https://medium.com/@aidanmc95/mongodb-7efaf05b6c3c?source=rss-495bab6e66fa------2)
-- [The Leap To GPT-3](https://medium.com/@aidanmc95/the-leap-to-gpt-3-551f8a322d08?source=rss-495bab6e66fa------2)
-- [Activate Fountain](https://medium.com/@aidanmc95/activate-fountain-3d7b47d9db7b?source=rss-495bab6e66fa------2)
+- [Patching Array](https://aidanmc95.medium.com/patching-array-7e0571d2b1e3?source=rss-495bab6e66fa------2)
+- [Bucket Sort](https://aidanmc95.medium.com/bucket-sort-15f9fbead657?source=rss-495bab6e66fa------2)
+- [MongoDB](https://aidanmc95.medium.com/mongodb-7efaf05b6c3c?source=rss-495bab6e66fa------2)
+- [The Leap To GPT-3](https://aidanmc95.medium.com/the-leap-to-gpt-3-551f8a322d08?source=rss-495bab6e66fa------2)
+- [Activate Fountain](https://aidanmc95.medium.com/activate-fountain-3d7b47d9db7b?source=rss-495bab6e66fa------2)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
