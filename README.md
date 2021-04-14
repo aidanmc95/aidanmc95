@@ -52,11 +52,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17764](https://github.com/microsoft/fluentui/issues/17764) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. 🗣 Commented on [#17764](https://github.com/microsoft/fluentui/issues/17764) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. 🗣 Commented on [#17765](https://github.com/microsoft/fluentui/issues/17765) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. 💪 Opened PR [#17768](https://github.com/microsoft/fluentui/pull/17768) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. 💪 Opened PR [#17767](https://github.com/microsoft/fluentui/pull/17767) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+1. 🗣 Commented on [#17817](https://github.com/microsoft/fluentui/issues/17817) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. 💪 Opened PR [#17818](https://github.com/microsoft/fluentui/pull/17818) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. 💪 Opened PR [#17817](https://github.com/microsoft/fluentui/pull/17817) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. 🗣 Commented on [#17764](https://github.com/microsoft/fluentui/issues/17764) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 🗣 Commented on [#17764](https://github.com/microsoft/fluentui/issues/17764) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
 </details>
