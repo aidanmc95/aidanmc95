@@ -53,10 +53,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19873](https://github.com/microsoft/fluentui/issues/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-2. 💪 Opened PR [#19873](https://github.com/microsoft/fluentui/pull/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-3. 🗣 Commented on [#19611](https://github.com/microsoft/fluentui/issues/19611) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-4. 💪 Opened PR [#19630](https://github.com/microsoft/fluentui/pull/19630) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
-5. ❌ Closed PR [#19629](https://github.com/microsoft/fluentui/pull/19629) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+2. ❌ Reopened PR [#19873](https://github.com/microsoft/fluentui/pull/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+3. ❌ Closed PR [#19873](https://github.com/microsoft/fluentui/pull/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+4. 🗣 Commented on [#19873](https://github.com/microsoft/fluentui/issues/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
+5. 🗣 Commented on [#19873](https://github.com/microsoft/fluentui/issues/19873) in [microsoft/fluentui](https://github.com/microsoft/fluentui)
 <!--END_SECTION:activity-->
 
 </details>
